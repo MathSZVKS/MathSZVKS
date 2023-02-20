@@ -42,4 +42,4 @@
   <a href="https://www.linkedin.com/in/matheus-sizervinks-ferreira-b77a4513a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-![Snake animation]
+![Snake animation](https://github.com/MathSZVKS/MathSZVKS/blob/output/github-contribution-grid.snake.svg)
