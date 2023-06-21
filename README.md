@@ -11,8 +11,6 @@
   <source srcset="https://github-readme-stats.vercel.app/api?username=MathSZVKS&show_icons=true&theme=buefy&hide_border=true&locale=pt-BR&border_radius=14" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/> <img src="https://github-readme-stats.vercel.app/api?username=MathSZVKS&show_icons=true"/>
 </picture>
 
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathSZVKS&layout=compact&langs_count=16&theme=tokyonight&locale=pt-BR&hide_border=true&border_radius=14"/>
-
 <div>
 <br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
