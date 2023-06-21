@@ -6,10 +6,29 @@
 
 ##
 
-<picture>
-  <source srcset="https://github-readme-stats.vercel.app/api?username=MathSZVKS&show_icons=true&theme=dracula&icon_color=4c71f2&hide_border=true&locale=pt-BR&border_radius=14" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://github-readme-stats.vercel.app/api?username=MathSZVKS&show_icons=true&theme=buefy&hide_border=true&locale=pt-BR&border_radius=14" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/> <img src="https://github-readme-stats.vercel.app/api?username=MathSZVKS&show_icons=true"/>
-</picture>
+<br/>
+    
+  <center>
+    <table border="0">
+      <tr>
+        <td colspan="2" align="center">
+          <img width="600px" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=MathSZVKS&theme=tokyonight"/>
+        </td>
+      </tr>
+      <tr>
+        <td align="center">
+           <img width="360px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathSZVKS&layout=compact&theme=tokyonight&count_private=true&show_icons=true&langs_count=8&cache_seconds=3600"/>
+        </td>
+        <td align="center">
+         <img width="460px" align="center" src="https://github-readme-stats.vercel.app/api?username=MathSZVKS&count_private=true&show_icons=true&theme=tokyonight"/>
+        </td>
+      </tr>
+    </table>
+  </center>
+
+  <div align="center" style="border: 1px solid #6390DD;padding: 10px; border-radius: 8px ">
+
+  </div>
 
 <div>
 <br>
