@@ -1,4 +1,4 @@
-### Olá, meu chamo Matheus, bem vindo ao meu perfil 😊
+### Olá, me chamo Matheus, bem vindo ao meu perfil 😊
 
 - 📖 Concluindo a formação de Analista de Sistemas pela Facthus em Uberaba - MG
 - 🔭 Estudando Angular
